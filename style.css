@@ -39,12 +39,14 @@ p {
 .dream-big {
   background-image: url(dream-bg.png);
   background-repeat: no-repeat;
-  background-position: right;
+  background-size: 100px;
+  background-position: right ;
+  
 }
-.experiences{background-image: 
-
-
-
+.experiences {
+  background-image: url(exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: 0 110px;
 }
 .experience-item {
   width: 40%;
