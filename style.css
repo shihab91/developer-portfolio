@@ -13,9 +13,7 @@ h1 {
   color: orange;
 }
 p {
-  
-  font-weight: lighter;
-  opacity: 0.8;
+  color: dimgray;
 }
 .flexible-container {
   display: flex;
@@ -62,9 +60,9 @@ p {
 }
 #baby-web-dev {
   border-left: 7px solid;
-  border-image: linear-gradient( cyan,blue);
+  border-image: linear-gradient(cyan, blue);
   border-image-slice: 1;
 }
-footer p{
+footer p {
   text-align: center;
 }
